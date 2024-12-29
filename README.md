@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hola 👋  soy David Kalmuk ✨ </h1> 
+<h2>Sobre mi 😃</h2>
 
-<!--
-**DavidKal29/DavidKal29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+🖥️ Desarrollador de Aplicaciones Web en Proceso
 
-Here are some ideas to get you started:
+👨‍💻 Soy un apasionado por el aprendizaje constante, la adaptación y la constancia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contacto: **davidkalmuk65@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+
+<h2 >Tecnologías Frontend 🎨</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vuejs,sass,tailwind,figma&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+
+<h2 >Tecnologías Backend ⚙️</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,nodejs,mysql,sqlite,nginx,flask&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+
+<h2 >Otras Conocimientos 🌐</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
