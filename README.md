@@ -22,6 +22,10 @@
 
 ---
 
+## **Github Stats**
+
+![davidkal29's Stats](https://github-readme-stats.vercel.app/api?username=davidkal29&theme=radical&show_icons=true&hide_border=false&count_private=true)  ![davidkal29's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkal29&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
 ## 💡 Qué hago
 
 - Desarrollo **interfaces atractivas y funcionales** con React, NextJs, Vue y Tailwind.  
