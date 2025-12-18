@@ -1,23 +1,25 @@
 # 🚀 David Kalmuk
 
-### Full Stack Developer | Apasionado por crear aplicaciones web modernas y eficientes
+### Full Stack Developer
 
-💻 Transformo ideas en soluciones digitales escalables, combinando **frontend elegante** y **backend robusto**.  
-🎯 Mi objetivo: código limpio, alto rendimiento y experiencia de usuario impecable.  
+Desarrollador Full Stack enfocado en la creación de aplicaciones web funcionales y bien estructuradas. Trabajo tanto en el frontend como en el backend, participando en todo el proceso de desarrollo: desde la construcción de interfaces hasta la lógica del servidor y la gestión de datos. Me interesa desarrollar soluciones claras, mantenibles y adaptadas a las necesidades de cada proyecto.
 
 ---
 
 ## 📬 Contáctame
 
 📧 **davidkalmuk65@gmail.com**  
-🌐 Disponible para proyectos freelance, colaboraciones y retos tecnológicos.
+🔗 [LinkedIn](https://www.linkedin.com/in/david-kalmuk-959a2236b/?originalSubdomain=es)  
+🌐 [Portfolio](https://portfolio-rb3f.onrender.com/)  
+
+Disponible para proyectos freelance, colaboraciones y retos tecnológicos.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,figma,js,vuejs,react,nextjs,py,flask,django,nodejs,express,nestjs,npm,notion,mysql,mongodb,git,github,vscode&perline=12" />
+<a href="https://skillicons.dev"> 
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,figma,js,vuejs,react,nextjs,py,flask,django,nodejs,express,nestjs,npm,notion,mysql,mongodb,git,github,vscode&perline=12" /> 
 </a>
 
 ---
@@ -26,19 +28,7 @@
 
 ![davidkal29's Stats](https://github-readme-stats.vercel.app/api?username=davidkal29&theme=radical&show_icons=true&hide_border=false&count_private=true)  ![davidkal29's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkal29&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
-## 💡 Qué hago
 
-- Desarrollo **interfaces atractivas y funcionales** con React, NextJs, Vue y Tailwind.  
-- Construyo **APIs y servidores robustos** con Node, Express, NestJS y Python (Django, Flask).  
-- Diseño **bases de datos escalables** en MySQL y MongoDB.  
-- Trabajo con herramientas modernas de productividad y colaboración: **Notion, VSCode, Figma**.  
-
----
-
-## 😃 Sobre mí
-
-🖥️ Full Stack Developer profesional con pasión por el aprendizaje constante, la innovación y la resolución de problemas.  
-👨‍💻 Me gusta trabajar en proyectos que combinan **frontend y backend**, cuidando cada detalle de diseño, rendimiento y experiencia de usuario.  
 
 
 
