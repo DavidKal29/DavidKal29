@@ -10,7 +10,7 @@ Desarrollador Full Stack enfocado en la creación de aplicaciones web funcionale
 
 📧 **davidkalmuk65@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/david-kalmuk-959a2236b/?originalSubdomain=es)  
-🌐 [Portfolio](https://portfolio-rb3f.onrender.com/)  
+🌐 [Portfolio](https://davidkalmukportfolio.onrender.com)  
 
 Disponible para proyectos freelance, colaboraciones y retos tecnológicos.
 
