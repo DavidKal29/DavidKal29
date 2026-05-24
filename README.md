@@ -1,43 +1,24 @@
-<h1 align="center">Hola 👋  soy David Kalmuk ✨ </h1> 
-<h2>Sobre mi 😃</h2>
+# 🚀 David Kalmuk
 
-<p align="left">
-🖥️ Desarrollador de Aplicaciones Web en Proceso
+### Web Developer
 
-👨‍💻 Soy un apasionado por el aprendizaje constante, la adaptación y la constancia.
+Desarrollador Web enfocado en la creación de aplicaciones web funcionales y bien estructuradas. Trabajo tanto en el frontend como en el backend, participando en todo el proceso de desarrollo: desde la construcción de interfaces hasta la lógica del servidor y la gestión de datos. Me interesa desarrollar soluciones claras, mantenibles y adaptadas a las necesidades de cada proyecto.
 
-📫 Contacto: **davidkalmuk65@gmail.com**
-<!--Intro end-->
-  </p>
-<br>
+---
 
+## 📬 Contáctame
 
-<h2 >Tecnologías Frontend 🎨</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vuejs,sass,tailwind,figma&perline=12" />
-  </a>
-</p>
-<br>
-<!-------------------------->
+📧 **davidkalmuk65@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/david-kalmuk-959a2236b/?originalSubdomain=es)  
 
-<h2 >Tecnologías Backend ⚙️</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,nodejs,mysql,sqlite,nginx,flask&perline=12" />
-  </a>
-</p>
-<br>
-<!-------------------------->
+Disponible para proyectos freelance, colaboraciones y retos tecnológicos.
 
-<h2 >Otras Conocimientos 🌐</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=12" />
-  </a>
-</p>
-<br>
-<!-------------------------->
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+<a href="https://skillicons.dev"> 
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vuejs,react,nextjs,py,django,flask,nodejs,npm,notion,mysql,postgresql,mongodb,git,github,vscode,docker&perline=12" /> 
+</a>
+
+---
